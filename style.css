@@ -13,6 +13,11 @@
     margin: 0;
   }
   
+  .skitse
+  {
+    max-width: 100%;
+  }  
+
   .topnav a {
     float: left;
     display: block;
@@ -73,13 +78,14 @@
     margin-left: 15%;
     margin-right: 15%;
     margin-top: 2%;
+    margin-bottom: 2%;
     padding: 2%;
     text-align: center;
     background-image: url('images/banner.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    min-height: 100vh;
+    min-height: 290vh;
     color: white;
     text-shadow:
     -1px -1px 1px #000,
