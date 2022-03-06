@@ -25,9 +25,9 @@ for (i = 0; i < acc.length; i++) {
   });
 }
 
-//let myName = "Mathias";
-//let indexlink = document.getElementsByTagName("a")[0];
-//indexlink.innerHTML = myName;
+let myName = "Mathias";
+let indexlink = document.getElementsByTagName("a")[0];
+indexlink.innerHTML = myName;
 
 let kit = "KIT";
 let indexlink = document.getElementsByTagName("a")[2];
