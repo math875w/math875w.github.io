@@ -1,0 +1,22 @@
+.button {
+    background-color: #5e646a ;
+    border: 2px solid #2d302d; 
+    border-radius: 8px;
+    color: rgb(0, 0, 0);
+    padding: 8px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family:'px Courier New', Courier, monospace;
+    margin-left: 5.3%;
+}
+#firstbutton{
+    margin-left: 10%;
+}
+html, body {
+
+    overflow: hidden; /*  Disable scrollbars */
+    display: block;  /* No floating content on sides */
+  }
+  
