@@ -21,19 +21,12 @@ for (i = 0; i < acc.length; i++) {
       panel.style.maxHeight = null;
     } else {
       panel.style.maxHeight = panel.scrollHeight + "px";
+      console.log("yes")
     } 
   });
 }
 
-let myName = "Mathias";
-let indexlink = document.getElementsByTagName("a")[0];
-indexlink.innerHTML = myName;
-
-let kit = "KIT";
-let indexlink = document.getElementsByTagName("a")[2];
-indexlink.innerHTML = kit;
 
 
 
-let title = document.getElementsByTagName("title")[0];
-title.innerHTML = myName + "' logbog"
+
